@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SpotifyPlaylistGenerator</string>
+    <string name="com_spotify_sdk_redirect_scheme">spotifyplaylistgenerator</string>
+    <string name="com_spotify_sdk_redirect_host">open.app</string>
+</resources>
